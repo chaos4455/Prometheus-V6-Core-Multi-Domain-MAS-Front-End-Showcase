@@ -43,6 +43,73 @@ O projeto é uma solução completa tanto para **front-end** quanto **back-end**
 ![chrome_wiTWSmvAYK](https://github.com/user-attachments/assets/eaa61529-190a-43c0-ae8c-09b1b0bf5921)
 
 
+
+## 🔑 Showcase do Portal - Tela de Login e Aplicação de IA
+
+Este projeto inclui uma **tela de login** interativa, que serve como porta de entrada para o **ecossistema de IA Multi-Agent**. Todas as interfaces são desenvolvidas em **React**, utilizando **Node.js** no backend, e **Vite** para construção e otimização.
+
+### 🚀 Tecnologias Utilizadas:
+- **React** - Para a construção de interfaces dinâmicas e interativas.
+- **Node.js** - Backend robusto para gerenciar e interagir com as APIs.
+- **Vite** - Ferramenta moderna para desenvolvimento rápido e otimização do frontend.
+
+### 🖥️ Funcionalidades:
+- Tela de login responsiva e fácil de usar.
+- Sistema de autenticação integrado.
+- Interface do usuário intuitiva para navegação e acesso a múltiplas funcionalidades.
+- Conectividade com o backend de IA multi-agent para operações avançadas.
+
+### 💡 Vantagens:
+- **Desempenho Otimizado**: Graças ao uso do **Vite** e **React**, a aplicação carrega e opera de forma eficiente, proporcionando uma experiência fluida.
+- **Escalabilidade**: A arquitetura baseada em **Node.js** permite escalabilidade, ideal para futuras expansões do projeto.
+- **Segurança**: Implementação de autenticação robusta para garantir a privacidade e a segurança dos usuários.
+- **Integração com IA**: A interface foi desenvolvida para interagir perfeitamente com o backend de IA, permitindo uma operação autônoma e inteligente.
+
+### 📸 Demo:
+
+![chrome_ucQrrwgcb2](https://github.com/user-attachments/assets/ec296edf-d95b-4a36-9765-7b9a6be75cee)
+
+![chrome_mHhzjiRGdk](https://github.com/user-attachments/assets/0a6addd3-96a7-4263-ad23-cf56452a8bad)
+
+![chrome_gCt1Lw9mQi](https://github.com/user-attachments/assets/f1dcc9be-9621-4471-8b12-6ac88c5eff4b)
+
+## 📊 Plataforma de IA: Dashboards e Analytics com Replika AI + Prometheus Backend
+
+A **Plataforma de IA** da **Replika AI** integra **dashboards** avançados e **analytics** de última geração, oferecendo insights detalhados e análise de dados através de IA e **Modelos de Linguagem (LLMs)**.
+
+### 🚀 Tecnologias e Arquitetura:
+- **Prometheus** como **backend** robusto, gerenciando dados em tempo real e operações de análise.
+- **React** no **frontend** para dashboards interativos e visuais de fácil acesso.
+- **Node.js** no backend para gerenciamento de dados e APIs de IA.
+- **Google Gemini 2.0** e outras LLMs integrados para análises inteligentes e automatizadas.
+- **Vite** para otimização e construção de interfaces rápidas e responsivas.
+
+### 🔍 Funcionalidades e Benefícios:
+- **Análise de Dados**: Visualização de dados em tempo real com dashboards interativos.
+- **Inteligência Artificial Avançada**: Utilização de **LLMs** e IA para insights e recomendações automatizadas.
+- **Prometheus Backend**: Implementação do Prometheus para gerenciamento de múltiplas fontes de dados, escalabilidade e otimização do desempenho.
+- **Personalização de Dashboards**: Interface dinâmica que se adapta ao seu fluxo de trabalho e necessidades analíticas.
+- **Integração Total**: Conectividade total entre backend e frontend, criando uma experiência sem interrupções e com dados sempre atualizados.
+
+### 💡 Como Funciona:
+1. **Coleta de Dados**: O sistema coleta dados de diferentes fontes e os envia para o **Prometheus**.
+2. **Análise Inteligente**: **LLMs** como **Google Gemini 2.0** são utilizados para analisar os dados e gerar insights valiosos.
+3. **Exibição em Dashboards**: Os resultados são exibidos em **dashboards** interativos e personalizáveis, para que você tenha controle total sobre os dados.
+4. **Integração**: O sistema é totalmente **Dockerizado** e pronto para deploy em **Kubernetes** (Google, AWS, Digital Ocean).
+
+<img width="526" alt="chrome_7y386I5UQE" src="https://github.com/user-attachments/assets/fdcba60b-45a2-4729-b3be-37fcfbe6e6c8" />
+
+<img width="1074" alt="chrome_D3aZEGXhje" src="https://github.com/user-attachments/assets/13ee2f53-f130-48e5-a844-322fb509f1f0" />
+
+<img width="1070" alt="chrome_lzhdghjdnt" src="https://github.com/user-attachments/assets/2b511b64-1dda-4bbd-abc1-a2e549e1a4bc" />
+
+<img width="1140" alt="chrome_E1kT1jokwq" src="https://github.com/user-attachments/assets/fde7b58b-b7e4-4c76-981c-a971e0a971e6" />
+
+<img width="1086" alt="chrome_b7zw3yxOYg" src="https://github.com/user-attachments/assets/c83fe224-3c09-4b78-b739-934a7f494631" />
+
+<img width="1049" alt="chrome_p3PNayDqFN" src="https://github.com/user-attachments/assets/76dce9e3-f9d4-4bb3-a2d2-2fbb4c092cda" />
+
+
 ## 💡 Arquitetura
 
 O **Prometheus Multi-Agent AI Ecosystem** é uma solução **modular**, onde o **front-end** e o **back-end** operam de forma separada, mas interagem via **APIs**. 
